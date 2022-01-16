@@ -1,4 +1,4 @@
- <h1 align="center">Hello there 👋</h1>
+ <h1>Hello there 👋</h1>
 <img align='left' src="https://github-readme-stats.vercel.app/api/top-langs?username=alihandemirdas&show_icons=true&locale=en&&theme=tokyonight"/>
 
 <p>I am Alihan, I am a computer engineering 2nd grade student at Necmettin Erbakan University and I am trying to develop myself in the best way.</p>
