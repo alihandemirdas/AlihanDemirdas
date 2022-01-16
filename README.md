@@ -1,4 +1,4 @@
- <h1>Hello 👋</h1>
+ <h1 align="medium">Hello there 👋</h1>
 <img align='left' src="https://github-readme-stats.vercel.app/api/top-langs?username=alihandemirdas&show_icons=true&locale=en&&theme=tokyonight"/>
 
 <p>I am Alihan, I am a computer engineering 2nd grade student at Necmettin Erbakan University and I am trying to develop myself in the best way.</p>
@@ -11,6 +11,7 @@
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=alihandemirdas.alihandemirdas)
 <br>
 <hr>
+
 <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="100"><img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="100"><img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://media.giphy.com/media/ztl9x7JlhSlU4MWD6h/giphy.gif" width="100"><img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100">
   
   
