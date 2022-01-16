@@ -1,8 +1,8 @@
  <h1>Hello 👋</h1>
 <img align='left' src="https://github-readme-stats.vercel.app/api/top-langs?username=alihandemirdas&show_icons=true&locale=en&&theme=tokyonight"/>
 
-<p>I am **Alihan**, I am a computer engineering 2nd grade student at Necmettin Erbakan University and I am trying to develop myself in the best way.</p>
-<p>You can always *contact me* with these accounts.</p>
+<p>I am Alihan, I am a computer engineering 2nd grade student at Necmettin Erbakan University and I am trying to develop myself in the best way.</p>
+<p>You can always contact me with these accounts.</p>
 
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alihandemirdas/)
 [![Mail Badge](https://img.shields.io/badge/email-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:alihandemirdas42@gmail.com)](mailto:alihandemirdas42@gmail.com)
