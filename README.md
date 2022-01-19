@@ -9,11 +9,11 @@
 <p>I am Alihan, I am a computer engineering 2nd grade student at Necmettin Erbakan University and I am trying to develop myself in the best way.</p>
 <p>You can always contact me with these accounts.</p>
 
-<h1>Tech Stack 💻</h1>
+<h3>Tech Stack 💻</h3>
 
 <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="100"><img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="100"><img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://media.giphy.com/media/ztl9x7JlhSlU4MWD6h/giphy.gif" width="100"><img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100">
 
-<h1>Github Stats 📈</h1>
+<h3>Github Stats 📈</h3>
 <img align='left' src="https://github-readme-stats.vercel.app/api/top-langs?username=alihandemirdas&show_icons=true&locale=en&&theme=tokyonight"/>
 <img src="https://github-readme-stats.vercel.app/api?username=alihandemirdas&show_icons=true&theme=radical"/>
 
