@@ -11,7 +11,7 @@
 
 <h2>Tech Stack 💻</h2>
 
-<img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="100"><img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="100"><img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="80"><img src="https://media.giphy.com/media/ztl9x7JlhSlU4MWD6h/giphy.gif" width="100"><img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100">
+<img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="80"><img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="80"><img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="80"><img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="80"><img src="https://media.giphy.com/media/ztl9x7JlhSlU4MWD6h/giphy.gif" width="80"><img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="80"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="80">
 
 <h2>Github Stats 📈</h2>
 <img align='left' src="https://github-readme-stats.vercel.app/api/top-langs?username=alihandemirdas&show_icons=true&locale=en&&theme=tokyonight"/>
