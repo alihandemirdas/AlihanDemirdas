@@ -6,7 +6,7 @@
 [![Github Badge](https://img.shields.io/badge/github-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alihandemirdas)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=alihandemirdas.alihandemirdas)
 
-<p>I am Alihan, I am a computer engineering 2nd grade student at Necmettin Erbakan University and I am trying to develop myself in the best way.</p>
+<p>I am Alihan, I am a computer engineering 3th grade student at Necmettin Erbakan University and I am trying to develop myself in the best way.</p>
 <p>You can always contact me with these accounts.</p>
 
 <h2>Tech Stack 💻</h2>
