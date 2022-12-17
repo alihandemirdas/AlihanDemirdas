@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alihandemirdas/)
 [![Mail Badge](https://img.shields.io/badge/email-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:alihandemirdas42@gmail.com)](mailto:alihandemirdas42@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AlihanDemirdas)
-[![Github Badge](https://img.shields.io/badge/instagram-333?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/alihn)
+[![Github Badge](https://img.shields.io/badge/instagram-333?style=for-the-badge&logo=instagram&logoColor=red)](https://instagram.com/alihn)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=alihandemirdas.alihandemirdas)
 
 <p>I am Alihan, I am a computer engineering 3th grade student at Necmettin Erbakan University and I am trying to develop myself in the best way.</p>
