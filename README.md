@@ -1,21 +1,33 @@
- <h1>Hello there 👋</h1>
- 
-[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alihandemirdas/)
-[![Mail Badge](https://img.shields.io/badge/email-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:alihandemirdas42@gmail.com)](mailto:alihandemirdas42@gmail.com)
-[![Twitter Badge](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AlihanDemirdas)
-[![Github Badge](https://img.shields.io/badge/instagram-333?style=for-the-badge&logo=instagram&logoColor=red)](https://instagram.com/alihn)
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=alihandemirdas.alihandemirdas)
+<h1 align="center">Hello 👋, I'm Alihan</h1>
+<h3 align="center">I am interested in backend and mobile development</h3>
 
-<p>I am Alihan, I am a computer engineering 3th grade student at Necmettin Erbakan University and I am trying to develop myself in the best way.</p>
-<p>You can always contact me with these accounts.</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alihandemirdas&label=Profile%20views&color=0e75b6&style=flat" alt="alihandemirdas" /> </p>
 
-<h2>Tech Stack 💻</h2>
+<h2 align="left">About Me</h2> <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<img align="right" alt="Coding" width="330" src="https://raw.githubusercontent.com/gist/MedRedha/fd8e2481bde2610c96b9aafde543879c/raw/88624e8d31c4295973dcb7c900dacf0edc0a6d99/coding.gif">
 
-<img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="80"><img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="80"><img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="80"><img src="https://media.giphy.com/media/ztl9x7JlhSlU4MWD6h/giphy.gif" width="80"><img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="80"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="80">
+- 🌱 I am currently a **4th year** computer engineering student.
 
-<h2>Github Stats 📈</h2>
-<img align='left' src="https://github-readme-stats.vercel.app/api/top-langs?username=alihandemirdas&show_icons=true&locale=en&&theme=tokyonight"/>
-<img src="https://github-readme-stats.vercel.app/api?username=alihandemirdas&show_icons=true&theme=radical"/>
+- 💬 Ask me about **anything** and **we learn together 💪**
 
-  
-  
+- ⚡ You can reach me on **alihandemirdas42@gmail.com**
+
+<h2 align="left">Languages and Tools:</h2>
+<p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="60" height="60"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="60" height="60"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="node.js" width="60" height="60"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="60" height="60"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="dart" width="60" height="60"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" width="60" height="60"/> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="60"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="60" height="60"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="60" height="60"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="60" height="60"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="60" height="60"/> </a> </p> 
+
+
+<h2 align="left">Connect with me:</h2>
+<p align="left">
+<a href="https://linkedin.com/in/alihandemirdas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alihandemirdas" height="45" width="60" /></a>
+<a href="https://www.hackerrank.com/yusufyyilmaz0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="yusufyyilmaz0" height="45" width="60" /></a>
+<a href="https://instagram.com/alihn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alihn" height="45" width="60" /></a>
+<a href="https://discordapp.com/users/726889282823782402" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="alihandemirdas" height="50" width="70" /></a>
+</p>
+
+<h2 align="left">Stats</h2>
+
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=alihandemirdas&show_icons=true&locale=en" alt="alihandemirdas" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alihandemirdas&show_icons=true&locale=en&layout=compact" alt="alihandemirdas" /></p>
+
+
