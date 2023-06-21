@@ -17,9 +17,9 @@
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
-<a href="https://linkedin.com/in/alihandemirdas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alihandemirdas" height="45" width="60" /></a>
-<a href="https://instagram.com/alihn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alihn" height="45" width="60" /></a>
-<a href="https://discordapp.com/users/726889282823782402" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="alihandemirdas" height="50" width="70" /></a>
+<a href="https://linkedin.com/in/alihandemirdas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alihandemirdas" height="45" width="50" /></a>
+<a href="https://instagram.com/alihn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alihn" height="45" width="50" /></a>
+<a href="https://discordapp.com/users/726889282823782402" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="alihandemirdas" height="50" width="60" /></a>
 </p>
 
 <h2 align="left">Stats</h2>
