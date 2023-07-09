@@ -1,9 +1,7 @@
 <h1 align="center">Hello 👋, I'm Alihan</h1>
 <h3 align="center">I am interested in backend and mobile development.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alihandemirdas&label=Profile%20views&color=0e75b6&style=flat" alt="alihandemirdas" /> </p>
 <h2 align="left">About Me</h2> <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 - 🌱 I am currently a **4th year** computer engineering student.
 
 - 💬 Ask me about **anything** and **we learn together 💪**
