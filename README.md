@@ -1,6 +1,6 @@
 ### Hello 👋
 
-I am Alihan. I am a 22-year-old computer engineer and full-stack developer. I continue to improve myself every day.
+I am Alihan. I am a 23-year-old computer engineer and full-stack developer. I continue to improve myself every day.
 
 ### Contact
 
