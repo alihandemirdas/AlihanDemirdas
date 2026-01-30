@@ -24,6 +24,33 @@ My expertise lies in bridging the gap between web and mobile. I don't just use f
 
 ---
 
+### 📲 Live Products (Production)
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://apps.apple.com/us/app/finans-x-d%C3%B6viz-alt%C4%B1n-kripto/id6742147857">
+          <img src="https://alihandemirdas.com.tr/static/media/finansx.1ba3dd8d72bfe42857d6.png" width="100" alt="FinansX" style="border-radius: 20px;">
+        </a>
+        <br>
+        <b>FinansX</b><br>
+        (Finance & Crypto)
+      </td>
+      <td width="50"></td> <td align="center">
+        <a href="https://apps.apple.com/tr/app/pet-care-ai-petvitals/id6747075653?l=tr">
+          <img src="https://alihandemirdas.com.tr/static/media/petvitals.0511e08a19cd4a749eec.png" width="100" alt="PetVitals" style="border-radius: 20px;">
+        </a>
+        <br>
+        <b>PetVitals</b><br>
+        (AI Pet Assistant)
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
 ### 🛠️ Tech Stack
 
 | **Core Engineering** | **Mobile & Native** | **Backend & Infrastructure** | **AI & Specialized** |
